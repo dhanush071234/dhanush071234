@@ -321,3 +321,4 @@ cout<<"\n\nMADE BY : jai kishore";
 cout<<"\ncollege : srm university";
 cin.get();
 }
+};
